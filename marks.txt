@@ -1,0 +1,37 @@
+Final Project Marks
+----------------------------------------
+----------------------------------------
+Clear description of your problem: 5/5
+
+Approach to your problem: 10/10
+---Nice move discarding the correlated features in the galaxy classification task
+
+Technical execution: 25/25
+
+Documentation and testing: 3/5
+---Fantastic documentation, but no evidence of code testing.
+
+Presentation of results: 4/5
+---Corner plot was basically unreadable given how tiny the axes were!
+
+Interpretation of results: 7/10
+---The corner plot contains incredible richness, with interesting degeneracies
+to explore. These should've been discussed and interpreted!
+
+Creativity + critical thinking: 8/10
+---Good critical comparison of the relative merits of the two approaches:
+good idea to consider not just the performance but the timing
+---Would've been good to have examined some of the incorrect classifications to see if it's possible to get some intuition for what went wrong.
+
+Overall communication: 4/5
+---Include some pictures showing samples of the datasets!
+
+TOTAL: 66/75
+
+----------------------------------------
+General comments
+----------------------------------------
+
+Overall a very well-defined and well-excuted project. Good job!
+I also understand that Juan is graduating this term. Congratulations
+and best of luck!
